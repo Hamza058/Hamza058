@@ -18,8 +18,8 @@
 </div> 
 
 <div>
-  <div> ***My working tools*** </div>
-  <div> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" > </div>  
+  <div style="padding:left"> <b> My working tools </b> </div>
+  <div style="padding:left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" > </div>  
 </div>
 <!-- ***My working tools*** &nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" > -->
 
