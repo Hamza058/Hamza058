@@ -17,6 +17,13 @@
   </a>
 </div> 
 
+<div className="input-group form-group">
+                                    <div className="input-group-prepend">
+                                        <span className="input-group-text"><i className="fas fa-key"></i></span>
+                                    </div>
+                                    <input type="password" className="form-control" placeholder="password" value={password} onChange={e => setPassword(e.target.value)} />
+                                </div>
+
 # ***My working tools*** &nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" >
 
 <a href="https://code.visualstudio.com/"> <img alt="Vs Code"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"     width="80">
