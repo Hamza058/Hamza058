@@ -3,14 +3,14 @@
 - I’m currently learning Backend Developer
 # 📫 How to reach me 
 <div id="badges">
+  <a href="https://www.linkedin.com/in/hamza-kılıç-91069b215">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <a href="mailto:hamzakl447@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gamil Badge"/>
   </a>
   <a href="mailto:hamza2358@hotmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/>
-  </a>  
-  <a href="https://www.linkedin.com/in/hamza-kılıç-91069b215">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <!-- <a href="www.linkedin.com/in/hamza-kılıç-91069b215">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
