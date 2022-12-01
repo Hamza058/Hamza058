@@ -2,6 +2,11 @@
 - I am a software engineer who is constantly trying to improve myself.
 - I’m currently learning Backend Developer
 - # 📫 How to reach me hamza2358@hotmail.com
+<div id="badges">
+  <a href="www.linkedin.com/in/hamza-kılıç-91069b215">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" >&nbsp;***My working tools...***
 
