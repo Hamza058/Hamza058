@@ -29,6 +29,7 @@
 </div>
 
 <style>
+  
     .d1{background:LightSkyBlue;}
     .d2{background:LightSalmon;}
     .d3{background:PaleTurquoise;}
