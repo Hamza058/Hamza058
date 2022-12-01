@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Hamza Kılıç
-- I am a software engineer who is constantly trying to improve myself.
+- ***I am a software engineer who is constantly trying to improve myself.***
 - I’m currently learning Backend Developer
 # 📫 How to reach me 
 <div id="badges">
