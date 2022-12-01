@@ -1,7 +1,7 @@
-- # 👋 Hi, I’m Hamza Kılıç
+# 👋 Hi, I’m Hamza Kılıç
 - I am a software engineer who is constantly trying to improve myself.
 - I’m currently learning Backend Developer
-- # 📫 How to reach me 
+# 📫 How to reach me 
 <div id="badges">
   <a href="hamzakl447@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gamil Badge"/>
