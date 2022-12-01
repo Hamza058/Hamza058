@@ -17,9 +17,18 @@
   </a>
 </div> 
 
-# <div style="padding:left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" ><p> ***My working tools*** </p> </div>
+# <div class="container">
+  <div class="row"> 
+    <div>
+      <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" >
+    </div>
+    <div>
+      <p> ***My working tools*** </p>
+    </div>
+  </div> 
+</div>
 
-<a href="https://code.visualstudio.com/"> <img alt="Vs Code"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"     width="80">
+<a href="https://code.visualstudio.com/"> <img alt="Vs Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"     width="80">
 <a href="https://www.python.org/"> <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="80" /> </a>
 <a href="https://git-scm.com/"> <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  width="80" /> </a>
 <a href="https://github.com/"> <img alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  width="80" /> </a>
