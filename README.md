@@ -17,44 +17,7 @@
   </a>
 </div> 
 
-<div class="container">
-  <div class="row"> 
-    <div>
-      <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" >
-    </div>
-    <div>
-      <p><b> My working tools </b></p>
-    </div>
-  </div> 
-</div>
-
-<style>
-  
-    .d1{background:LightSkyBlue;}
-    .d2{background:LightSalmon;}
-    .d3{background:PaleTurquoise;}
-    .d4{background:LightPink;}
-    .d5{background:PaleGreen;}
-    
-    .container {
-      font-size: 40px;
-      width: 100%;
-      background: LightGray;
-      display: grid;
-      /* add your code below this line */
-      grid-template-columns: 100px 100px 100px;
-      
-      /* add your code above this line */
-    }
-</style>
-    
-  <div class="container">
-    <div class="d1">1</div>
-    <div class="d2">2</div>
-    <div class="d3">3</div>
-    <div class="d4">4</div>
-    <div class="d5">5</div>
-  </div>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" >&nbsp;***My working tools...***
 
 <a href="https://code.visualstudio.com/"> <img alt="Vs Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"     width="80">
 <a href="https://www.python.org/"> <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="80" /> </a>
