@@ -3,7 +3,7 @@
 - I’m currently learning Backend Developer
 # 📫 How to reach me 
 <div id="badges">
-  <a href="hamzakl447@gmail.com">
+  <a href="mailto:hamzakl447@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gamil Badge"/>
   </a>
   <a href="hamza2358@hotmail.com">
