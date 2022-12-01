@@ -23,9 +23,23 @@
       <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" >
     </div>
     <div>
-      <p><b> My working tools U+1f4fa </b></p>
+      <p><b> My working tools </b></p>
     </div>
   </div> 
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      One of three columns
+    </div>
+    <div class="col-sm">
+      One of three columns
+    </div>
+    <div class="col-sm">
+      One of three columns
+    </div>
+  </div>
 </div>
 
 <a href="https://code.visualstudio.com/"> <img alt="Vs Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"     width="80">
