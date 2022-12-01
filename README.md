@@ -6,17 +6,16 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" >&nbsp;***My working tools...***
 
 <a href="https://code.visualstudio.com/"> <img alt="Vs Code"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"     width="80">
-<a href="https://www.python.org/"> <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="40" /> </a>
-<a href="https://git-scm.com/"> <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  width="40" /> </a>
-<a href="https://github.com/"> <img alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  width="40" /> </a>
-<a href="https://jupyter.org/"> <img alt="jupyter notebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  width="40" /> </a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" > <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"  width="40" /> </a>
-<a href="https://www.w3schools.com/cs/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" /> </a> 
-<a href="https://www.w3schools.com/css/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" /> </a>
-<a href="https://dotnet.microsoft.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" /> </a>
-<a href="https://www.w3.org/html/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" /> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/> </a>
-</a> <a href="https://www.microsoft.com/en-us/sql-server"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" /> </a>
+<a href="https://www.python.org/"> <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="80" /> </a>
+<a href="https://git-scm.com/"> <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  width="80" /> </a>
+<a href="https://github.com/"> <img alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  width="80" /> </a>
+<a href="https://jupyter.org/"> <img alt="jupyter notebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  width="80" /> </a>
+<a href="https://www.w3schools.com/cs/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" /> </a> 
+<a href="https://www.w3schools.com/css/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" /> </a>
+<a href="https://dotnet.microsoft.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="80" /> </a>
+<a href="https://www.w3.org/html/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" /> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80"/> </a>
+</a> <a href="https://www.microsoft.com/en-us/sql-server"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" /> </a>
 
 <!---
 Hamza058/Hamza058 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
