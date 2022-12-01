@@ -31,6 +31,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80"/> </a>
 </a> <a href="https://www.microsoft.com/en-us/sql-server"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" /> </a>
 
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamza058&show_icons=true&locale=en&layout=compact" alt="hamza kılıç" />
+</p>
+
 <!---
 Hamza058/Hamza058 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
