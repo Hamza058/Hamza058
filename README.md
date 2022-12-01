@@ -1,7 +1,8 @@
 - # 👋 Hi, I’m Hamza Kılıç
 - I am a software engineer who is constantly trying to improve myself.
 - I’m currently learning Backend Developer
-- # 📫 How to reach me hamza2358@hotmail.com - <a href="www.linkedin.com/in/hamza-kılıç-91069b215">
+- # 📫 How to reach me 
+hamza2358@hotmail.com - <a href="www.linkedin.com/in/hamza-kılıç-91069b215">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
