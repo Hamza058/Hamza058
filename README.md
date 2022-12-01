@@ -7,3 +7,4 @@
 Hamza058/Hamza058 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+azure csharp css3 dotnet git html5 javascript mssql postgresql postman python sass typescript vuejs
