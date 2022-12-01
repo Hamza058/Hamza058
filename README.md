@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Hamza Kılıç
 - ***I am a software engineer who is constantly trying to improve myself.***
-- I’m currently learning Backend Developer
+- ***I’m currently learning Backend Developer***
 # 📫 How to reach me 
 <div id="badges">
   <a href="https://www.linkedin.com/in/hamza-kılıç-91069b215">
