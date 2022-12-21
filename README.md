@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Hamza Kılıç
+# <img src="https://user-images.githubusercontent.com/78644723/208960412-612e4355-7c0e-41d5-ad11-b0813f7353e3.gif" width="40" > Hi, I’m Hamza Kılıç
 - ***I am a software engineer who is constantly trying to improve myself.***
 - ***I’m currently learning Backend Developer***
 # 📫 How to reach me 
@@ -18,7 +18,7 @@
 </div> 
 
 
-# <img src="https://user-images.githubusercontent.com/78644723/208960412-612e4355-7c0e-41d5-ad11-b0813f7353e3.gif" width="40" >&nbsp;***My working tools...***
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giph.gif" width="40" >&nbsp;***My working tools...***
 
 <a href="https://code.visualstudio.com/"> <img alt="Vs Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"     width="80">
 <a href="https://www.python.org/"> <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="80" /> </a>
