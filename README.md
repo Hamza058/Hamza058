@@ -41,7 +41,10 @@
   &nbsp;
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza058&theme=shadow_red&show_icons=true"/>
 </div><br>
-![Snake animation](https://github.com/Hamza058/Hamza058/blob/output/github-contribution-grid-snake.svg)
+<img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+/>
 
 <!---
 Hamza058/Hamza058 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
