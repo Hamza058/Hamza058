@@ -26,7 +26,7 @@ jobs:
       - uses: actions/checkout@v2
 
     # Generates the snake  
-      - uses: Platane/snk@master
+      - uses: Hamza058/snk@main
         id: snake-gif
         with:
           github_user_name: "Hamza058"
@@ -35,11 +35,11 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
-      - run: git status
+      - run: GITHUB_STATUS
 
       # Push the changes
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
