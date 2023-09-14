@@ -41,7 +41,7 @@
   &nbsp;
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza058&theme=shadow_red&show_icons=true"/>
 </div><br>
-- Markdown Syntax: `![](https://raw.githubusercontent.com/Hamza058/blop/output/github-contribution-grid-snake.svg)`
+  <img src="https://raw.githubusercontent.com/Hamza058/blop/output/github-contribution-grid-snake.svg"/>
 
 <!---
 Hamza058/Hamza058 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
