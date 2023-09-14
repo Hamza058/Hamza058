@@ -43,7 +43,7 @@
 </div><br>
 <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    src="https://github.com/Hamza058/Hamza058/blob/output/github-contribution-grid-snake.svg"
 />
 
 <!---
