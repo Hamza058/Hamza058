@@ -20,7 +20,7 @@
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" >&nbsp;***My working tools...***
 
-<a href="https://code.visualstudio.com/"> <img alt="Vs Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"     width="80">
+<a href="https://code.visualstudio.com/"> <img alt="Vs Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="80"> </a>
 <a href="https://www.python.org/"> <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="80" /> </a>
 <a href="https://git-scm.com/"> <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  width="80" /> </a>
 <a href="https://github.com/"> <img alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  width="80" /> </a>
@@ -32,6 +32,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80"/> </a>
 </a>
 <a href="https://www.microsoft.com/en-us/sql-server"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" /> </a>
+<a href="https://www.postgresql.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" /> </a>
 <a href="https://reactjs.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="80" /> </a>
 <br />
 <hr>
