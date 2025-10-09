@@ -3,9 +3,8 @@
 - ***I currently develop custom software solutions for our clients at my own company, Smartech Bilişim.***
 # 📫 How to reach me 
 
-<a href="https://smartechbilisim.com.tr" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Smartech_Bilişim-110C6C?style=for-the-badge" alt="Smartech Bilisim Badge"/>
-</a>
+<img src="[![Smartech Bilisim](https://img.shields.io/badge/Smartech_Bilişim-110C6C?style=for-the-badge)](https://smartechbilisim.com.tr)" alt="Smartech Bilisim Badge"/>
+
 <a href="https://www.linkedin.com/in/hamza-kılıç-91069b215" style="text-decoration: none">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn Badge"/>
 </a>
