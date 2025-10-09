@@ -4,16 +4,9 @@
 # 📫 How to reach me 
 
 [![Smartech Bilisim](https://img.shields.io/badge/Smartech_Bilişim-110C6C?style=for-the-badge)](https://smartechbilisim.com.tr)
-
-<a href="https://www.linkedin.com/in/hamza-kılıç-91069b215" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn Badge"/>
-</a>
-<a href="mailto:hamzakl447@gmail.com" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge" alt="Gamil Badge"/>
-</a>
-<a href="mailto:hamza2358@hotmail.com" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge" alt="Outlook Badge"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/hamza-kılıç-91069b215)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge)](mailto:hamzakl447@gmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge)](mailto:hamza2358@hotmail.com)
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" >&nbsp;***My working tools...***
 
