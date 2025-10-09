@@ -3,16 +3,16 @@
 - ***I currently develop custom software solutions for our clients at my own company, Smartech Bilişim.***
 # 📫 How to reach me 
 
-<a href="https://smartechbilisim.com.tr">
+<a href="https://smartechbilisim.com.tr" style="text-decoration: none">
   <img src="https://img.shields.io/badge/Smartech_Bilişim-110C6C?style=for-the-badge" alt="Smartech Bilisim Badge"/>
 </a>
-<a href="https://www.linkedin.com/in/hamza-kılıç-91069b215">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&labelColor=0A66C2" alt="LinkedIn Badge"/>
+<a href="https://www.linkedin.com/in/hamza-kılıç-91069b215" style="text-decoration: none">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn Badge"/>
 </a>
-<a href="mailto:hamzakl447@gmail.com">
+<a href="mailto:hamzakl447@gmail.com" style="text-decoration: none">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge" alt="Gamil Badge"/>
 </a>
-<a href="mailto:hamza2358@hotmail.com">
+<a href="mailto:hamza2358@hotmail.com" style="text-decoration: none">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge" alt="Outlook Badge"/>
 </a>
 
