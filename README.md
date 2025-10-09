@@ -1,6 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/78644723/208960412-612e4355-7c0e-41d5-ad11-b0813f7353e3.gif" width="40" > Hi, I’m Hamza Kılıç
 - ***I am a software engineer who is constantly trying to improve myself.***
-- ***I’m currently learning Backend Developer***
+- ***I currently develop custom software solutions for our clients at my own company, Smartech Bilişim.***
 # 📫 How to reach me 
 <div id="badges">
   <a href="https://www.linkedin.com/in/hamza-kılıç-91069b215">
