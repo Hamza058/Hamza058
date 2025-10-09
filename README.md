@@ -7,13 +7,13 @@
   <img src="https://img.shields.io/badge/Smartech_Bilişim-blue?style=for-the-badge&" alt="Smartech Bilisim Badge"/>
 </a>
 <a href="https://www.linkedin.com/in/hamza-kılıç-91069b215" target="_blank" style="text-decoration: none">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40" height="40" />
 </a>
 <a href="mailto:hamzakl447@gmail.com" target="_blank" style="text-decoration: none">
   <img src="https://img.icons8.com/?size=100&id=Iq5AZypojpBD&format=png&color=000000" width="40" height="40" />
 </a>
 <a href="mailto:hamza2358@hotmail.com" target="_blank" style="text-decoration: none">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="40" height="40" />
+  <img src="https://img.icons8.com/?size=100&id=13640&format=png&color=000000" width="40" height="40" />
 </a>
 <a href="https://www.linkedin.com/in/hamza-kılıç-91069b215">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
