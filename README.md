@@ -24,18 +24,10 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="80" alt="PostgreSQL"/>](https://www.postgresql.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="80" alt="React"/>](https://reactjs.org/)
 
-<br />
-<hr>
-<div align="left">
-  <a href="https://github.com/Hamza058">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza058&layout=compact&langs_count=7&theme=shadow_red"/>
-  &nbsp;
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza058&theme=shadow_red&show_icons=true"/>
-</div><br>
-<img
-    alt="github contribution grid snake animation"
-    src="https://github.com/Hamza058/Hamza058/blob/output/github-contribution-grid-snake.svg"
-/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza058&layout=compact&langs_count=7&theme=shadow_red)](https://github.com/Hamza058)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza058&theme=shadow_red&show_icons=true)](https://github.com/Hamza058)
+
+![GitHub Contribution Grid Snake Animation](https://github.com/Hamza058/Hamza058/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Hamza058/Hamza058 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
