@@ -6,11 +6,8 @@
   <a href="https://smartechbilisim.com.tr">
     <img src="https://img.shields.io/badge/Smartech_Bilişim-blue?style=for-the-badge&" alt="Smartech Bilisim Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/kullanici-adin" target="_blank">
+  <a href="https://www.linkedin.com/in/hamza-kılıç-91069b215" target="_blank" style="text-decoration: none">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/hamza-kılıç-91069b215">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:hamzakl447@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gamil Badge"/>
