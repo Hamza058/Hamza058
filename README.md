@@ -2,7 +2,7 @@
 - ***I am a software engineer who is constantly trying to improve myself.***
 - ***I currently develop custom software solutions for our clients at my own company, Smartech Bilişim.***
 # 📫 How to reach me 
-<div id="badges">
+
   <a href="https://smartechbilisim.com.tr">
     <img src="https://img.shields.io/badge/Smartech_Bilişim-blue?style=for-the-badge&" alt="Smartech Bilisim Badge"/>
   </a>
@@ -15,7 +15,15 @@
   <a href="mailto:hamza2358@hotmail.com" target="_blank" style="text-decoration: none">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="40" height="40" />
   </a>
-</div> 
+  <a href="https://www.linkedin.com/in/hamza-kılıç-91069b215">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:hamzakl447@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gamil Badge"/>
+  </a>
+  <a href="mailto:hamza2358@hotmail.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/>
+  </a>
 
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" >&nbsp;***My working tools...***
