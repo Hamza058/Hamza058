@@ -4,10 +4,13 @@
 # 📫 How to reach me 
 <div id="badges">
   <a href="https://smartechbilisim.com.tr">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Smartech_Bilişim-blue?style=for-the-badge&" alt="Smartech Bilisim Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kullanici-adin" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/hamza-kılıç-91069b215">
-    <img src="https://img.shields.io/badge/Smartech_Bilişim-blue" alt="Smartech Bilisim Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:hamzakl447@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gamil Badge"/>
@@ -15,9 +18,6 @@
   <a href="mailto:hamza2358@hotmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/>
   </a>
-  <!-- <a href="www.linkedin.com/in/hamza-kılıç-91069b215">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a> -->
 </div> 
 
 
