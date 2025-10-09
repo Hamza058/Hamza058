@@ -9,11 +9,11 @@
   <a href="https://www.linkedin.com/in/hamza-kılıç-91069b215" target="_blank" style="text-decoration: none">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>
-  <a href="mailto:hamzakl447@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gamil Badge"/>
+  <a href="mailto:hamzakl447@gmail.com" target="_blank" style="text-decoration: none">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" />
   </a>
-  <a href="mailto:hamza2358@hotmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/>
+  <a href="mailto:hamza2358@hotmail.com" target="_blank" style="text-decoration: none">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="40" height="40" />
   </a>
 </div> 
 
