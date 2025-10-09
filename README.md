@@ -22,10 +22,9 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gamil Badge"/>
 </a>
 <a href="mailto:hamza2358@hotmail.com">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white" alt="Outlook Badge"/>
+  <img src="https://img.icons8.com/?size=100&id=13640&format=png&color=000000" width="40" height="40" />
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge" alt="Outlook Badge"/>
 </a>
-<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40" height="40" />
-<img src="https://img.icons8.com/?size=100&id=Iq5AZypojpBD&format=png&color=000000" width="40" height="40" />
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" >&nbsp;***My working tools...***
 
