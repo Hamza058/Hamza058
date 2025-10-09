@@ -10,7 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
 </a>
 <a href="mailto:hamzakl447@gmail.com" target="_blank" style="text-decoration: none">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" />
+  <img src="https://img.icons8.com/?size=100&id=Iq5AZypojpBD&format=png&color=000000" width="40" height="40" />
 </a>
 <a href="mailto:hamza2358@hotmail.com" target="_blank" style="text-decoration: none">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="40" height="40" />
